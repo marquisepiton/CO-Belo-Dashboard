@@ -2,6 +2,7 @@
 A application for the Campus Outreach Belo Horizonte Staff to be able to access google site in a application form.
 
 
-Skills being developed;
+# Skills being developed;
+Icon/Asset Designing
 Xcode, Android Studio (IOS, Android Development)
-Swift, Java Programming: How to insert webpages into source code.
+Swift, Java Programming: How to insert webpages into the source code.
