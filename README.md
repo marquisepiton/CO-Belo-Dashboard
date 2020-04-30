@@ -4,5 +4,6 @@ A private application for the Campus Outreach Belo Horizonte Staff to be able to
 
 # Skills being developed
 Icon/Asset Designing
-Xcode, Android Studio (IOS, Android Development)
+Xcode(IOS)
 Swift: How to insert webpages into the source code.
+
